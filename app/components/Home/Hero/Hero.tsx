@@ -10,7 +10,7 @@ const Hero = () => {
                 {/* Images */}
                 <div data-aos="zoom-in" 
                 className='mx-auto flex justift-between w-[150px] h-[150px] md:w-[200px] md:h-[200px] lg:w-[300px] lg:h-[300px] xl:w-[400px] xl:h-[400px]'>
-                    <Image src="/images/heropic.png" alt="Hero" width={380} height={400} className="w-[100%] h-[100%] " />
+                    <Image src="/Images/heropic.png" alt="Hero" width={380} height={400} className="w-[100%] h-[100%] " />
                 </div>
                 {/* complete order number */}
                 <div data-aos="fade-right" data-aos-delay="200"
