@@ -23,7 +23,7 @@ const Hero = () => {
             </div>
             <div className='col-span-3'>
             <h1 data-aos="fade-left" data-aos-delay="400"
-            className='text-[20px] xl:text-[26px] uppercase text-orange-500 font-semibold'>Hello i'm</h1>
+            className='text-[20px] xl:text-[26px] uppercase text-orange-500 font-semibold'>Hello i&apos;m</h1>
             <h1 data-aos="fade-right" data-aos-delay="600"
             className="text-[35px] lg:text-[45px] xl:text[60px] font-bold text-white">Horiya 
                 <span className='text-red-500'> Zahid!</span></h1>

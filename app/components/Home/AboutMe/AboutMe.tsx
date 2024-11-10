@@ -1,7 +1,6 @@
 import React from 'react'
 import Heading from '../../Helper/Heading'
 import AboutInfoBox from './AboutInfoBox'
-import AboutImage from '@/public/Images/about.svg'
 import Image from 'next/image'
 
 const AboutMe = () => {
@@ -41,7 +40,7 @@ const AboutMe = () => {
             <Image 
             data-aos="zoom-in"
             data-aos-anchor-placement="top-center"
-            src='/Images/aboutme2.png' 
+            src="/Images/aboutme2.png" 
             width={300}
             height={300}
             alt="About" className="mx-auto " />
