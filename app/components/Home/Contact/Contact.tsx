@@ -15,7 +15,7 @@ const Contact = () => {
                     Lets Make Your <span className='text-yellow-400'>Brand</span> Brilliant!</h1>
                     <p className='text-[15px] text-white mt-[1rem] opacity-75'>
                         Unlock the full potential of your brand with innovative web solutions. Weather you need a stunning 
-                        website,seamless user experience, or efficient backend systems, I'm here to bring your vision to life and 
+                        website,seamless user experience, or efficient backend systems, Im here to bring your vision to life and 
                         make a lasting impact.</p>
                     <h1 className='mt-[2rem] mb-[2rem] text-[30px] text-yellow-300 underline font-bold'>+92 319 295 1073</h1>
             </div>
