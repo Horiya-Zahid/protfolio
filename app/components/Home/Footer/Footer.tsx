@@ -1,5 +1,5 @@
 import React from 'react'
-import { BiEnvelope, BiMap, BiMapPin, BiPhone } from 'react-icons/bi'
+import { BiEnvelope, BiMapPin, BiPhone } from 'react-icons/bi'
 
 const Footer = () => {
   return (
@@ -29,7 +29,7 @@ const Footer = () => {
             <h1 className='text-white font-semibold mb-[1.4rem] text-[17px]'>Address</h1>
             <div className='flex items-center mt-[1rem] space-x-2'>
                 <BiMapPin className='w-[1rem] h-[1rem] text-yellow-400' />
-                <p className='text-[17px] font-normal text-white opacity-75'>Gulshan-e-Iqbal Karachi,Sindh</p>
+                <p className='text-[17px] font-normal text-white opacity-75'>Karachi, Pakistan</p>
             </div>
             <div className='flex items-center mt-[1rem] space-x-2'>
                 <BiEnvelope className='w-[1rem] h-[1rem] text-yellow-400' />
